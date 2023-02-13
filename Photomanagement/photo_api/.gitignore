@@ -1,0 +1,7 @@
+# files to exclude from git repository
+# exclude third party libraries
+node_modules
+
+# exclude sensitive api
+dev.env 
+
